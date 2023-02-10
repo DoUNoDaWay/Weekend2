@@ -1,0 +1,15 @@
+C:\Users\konne\source\repos\Weekend2\Weekend2\bin\Debug\net6.0\Weekend2.exe
+C:\Users\konne\source\repos\Weekend2\Weekend2\bin\Debug\net6.0\Weekend2.deps.json
+C:\Users\konne\source\repos\Weekend2\Weekend2\bin\Debug\net6.0\Weekend2.runtimeconfig.json
+C:\Users\konne\source\repos\Weekend2\Weekend2\bin\Debug\net6.0\Weekend2.dll
+C:\Users\konne\source\repos\Weekend2\Weekend2\bin\Debug\net6.0\Weekend2.pdb
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.csproj.AssemblyReference.cache
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.AssemblyInfoInputs.cache
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.AssemblyInfo.cs
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.csproj.CoreCompileInputs.cache
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.dll
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\refint\Weekend2.dll
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.pdb
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\Weekend2.genruntimeconfig.cache
+C:\Users\konne\source\repos\Weekend2\Weekend2\obj\Debug\net6.0\ref\Weekend2.dll
